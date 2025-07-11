@@ -1,4 +1,4 @@
--- Made by yuutoes. [https://discord.gg/jaCuTZPxKp]
+-- Made by yuutoes.
 
 local e,o,f,D
 o,D={[-23222]=7289,[18504]=-12524},function(v)
